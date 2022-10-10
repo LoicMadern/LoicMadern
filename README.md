@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoicMadern
 - 👀 I’m interested in computer science especially in developping new projects with people and learning new technologies.
-- 🌱 I’m currently working at https://www.etsmtl.ca/en/home as a researcher intern
+- 🌱 I’m currently studying at Polytech Nice
 - 📫 How to reach me loic.madern@etu.univ-cotedazur.fr
 
 <!---
